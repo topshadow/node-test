@@ -1,2 +1,2 @@
-# cnmp是什么
+# cnpm是什么 
 https://npm.taobao.org/
